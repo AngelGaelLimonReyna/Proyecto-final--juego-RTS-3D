@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e0494c37c20db94e994c1fad78446de, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Build_CuyUnit
+    <ID>k__BackingField: 0
+    description: 
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 8129531019901235311, guid: 7bddbd3f1f691bc49bc4422bb38cab78, type: 3}
+    <requirements>k__BackingField: []
+    <benefits>k__BackingField: []
+  - <Name>k__BackingField: Build_BallestaUnit
+    <ID>k__BackingField: 1
+    description: 
+    <Size>k__BackingField: {x: 3, y: 3}
+    <Prefab>k__BackingField: {fileID: 4529851938228692605, guid: 0409db375eb7730419a69df51771720c, type: 3}
+    <requirements>k__BackingField: []
+    <benefits>k__BackingField: []
+  - <Name>k__BackingField: Build_ChorizardUnit
+    <ID>k__BackingField: 2
+    description: 
+    <Size>k__BackingField: {x: 3, y: 3}
+    <Prefab>k__BackingField: {fileID: 7858850489331935271, guid: 967013aa885d81446952858a49c9989f, type: 3}
+    <requirements>k__BackingField: []
+    <benefits>k__BackingField: []
